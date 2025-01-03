@@ -1,0 +1,250 @@
+---
+title: "Flowing through change:<br> Exploring disturbances and urbanization<br> in tropical streams"
+subtitle: ""
+author: "Pablo E. Guti\u00E9rrez-Fonseca"
+institute: ""
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default, "css/nhsr.css", "css/nhsr-fonts.css", "css/custom.css"]
+    nature:
+      highlightLanguage: r
+      highlightStyle: github
+      highlightLines: true
+      highlightSpans: true 
+      countIncrementalSlides: true
+      ratio: "16:9"
+    includes:
+      after_body: [css/insert-logo.html] #this is for logos in all slides
+xaringanExtra:
+    use_panelset: true
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(readr)
+library(lessR)
+library(ggplot2)
+library(patchwork)
+library(palmerpenguins)
+library(car)
+library(ggforce) # for geom_circle
+library(RVAideMemoire) #shapiro.test
+library(DiagrammeR)
+knitr::opts_chunk$set(dpi= 300)
+xaringanExtra::use_panelset()
+xaringanExtra::use_scribble()
+xaringanExtra::use_search(show_icon = FALSE, position= "bottom-left") # Search
+xaringanExtra::use_progress_bar(color = "#0051BA", location = "bottom", 
+                                height = "4px")
+xaringanExtra::use_clipboard() # Copy Code 
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presentation
+```
+
+# Outline
+
+- About me
+
+- Extreme climate events
+    - Hurricanes
+    - Droughts
+    
+- Urban stream syndrome
+
+---
+# About me
+.pull-left[
+- I grew up in Turrialba, CR
+]
+.pull-right[ 
+]
+
+
+---
+# About me
+.pull-left[
+- I grew up in Turrialba, CR
+
+- University of Costa Rica
+    - BS in biology
+    - MSc in aquatic science
+    
+]
+.pull-right[ 
+]
+
+
+---
+# About me
+.pull-left[
+- I grew up in Turrialba, CR
+
+- University of Costa Rica
+    - BS in biology
+    - MSc in aquatic science
+
+- University of Puerto Rico
+    - PhD in community ecology
+    - Postdoc in ecosystem ecology and disturbance ecology 
+
+]
+.pull-right[ 
+]
+
+---
+# Puerto Rico context
+- Puerto Rico is an archipelago located between the Atlantic Ocean and the Caribbean Sea. It is the smallest island of the greater Antilles.
+
+.center[
+<img src="fig/fig1.png" alt="Degrees of Freedom T-Table" width="600"/>
+]
+
+---
+# Puerto Rico context
+.pull-left[
+- Most people live in San Juan Metropolitan area
+
+- 62% of PR is forested 
+]
+
+.pull-right[ 
+.center[
+<img src="fig/fig2.jpg" width="375"/>
+]]
+
+---
+# International Decade of Natural Disaster Reduction (1990s)
+.pull-left[
+- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes
+
+]
+
+.pull-right[ 
+
+]
+
+---
+# International Decade of Natural Disaster Reduction (1990s)
+.pull-left[
+- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes
+
+- Urbanization
+
+]
+
+.pull-right[ 
+
+]
+
+---
+# Hurricane disturbances
+.pull-left[
+- Hurricanes are important natural disturbances in Puerto Rico
+
+- Its location makes the island vulnerable to the impact of hurricanes
+]
+
+.pull-right[ 
+<img src="fig/fig3.jpg" width="500"/>
+]
+
+---
+# Urban stream syndrome
+.pull-left[
+The term **urban stream syndrome** describes the physical and ecological response of streams to catchment urbanization (Walsh et al. 2005).
+
+- a flashy hydrograph (flash floods, quick pulses of water in creeks).
+- high concentrations of nutrients and contaminants.
+- altered channel morphology and stability.
+- reduced biotic richness, with increased dominance of invasive tolerant species.
+]
+
+.pull-right[
+.center[
+<img src="fig/urbanstreamsyndrome.jpg" width="375"/>
+]]
+
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish
+2. Macroinvertebrates
+3. Flow regime
+4. Chemistry
+5. Riparian zone
+6. Ecosystem function
+]
+
+.pull-right[
+.center[
+<img src="fig/RioPiedras.png" width="500"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+1. .red[**Fish assemblages**]
+2. Macroinvertebrates
+3. Flow regime
+4. Chemistry
+5. Riparian zone
+6. Ecosystem function
+]
+
+.pull-right[
+.center[
+<img src="fig/RioPiedras.png" width="500"/>
+]]
+
+
+---
+# Urban stream syndrome
+.pull-left[
+
+.center[
+<img src="fig/fishstreams.png" width="250"/>
+]]
+
+.pull-right[
+.center[
+<img src="fig/fishpaper.png" width="400"/>
+
+<br>
+
+<img src="fig/electrofishing.jpg" width="300"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+
+.center[
+<img src="fig/fishstreams.png" width="250"/>
+]]
+
+.pull-right[
+.center[
+**Native**<br>
+<img src="fig/fishnative.jpg" width="300"/>
+
+**Introduce**<br>
+<img src="fig/fishintroduce.jpg" width="300"/>
+]]
+
+
+---
+# Urban stream syndrome
+.pull-left[
+]
+
+.pull-right[
+.center[
+<img src="fig/fishabundance.png" width="300"/>
+<img src="fig/fishbiomass.png" width="300"/>
+]]
