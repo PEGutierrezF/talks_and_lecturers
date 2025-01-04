@@ -133,7 +133,7 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 .pull-left[
 - Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes
 
-- Urbanization
+- .red[**Urbanization**]
 
 ]
 
@@ -173,8 +173,8 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ---
 # Urban stream syndrome
 .pull-left[
-1. Fish
-2. Macroinvertebrates
+1. Fish assemblages
+2. Macroinvertebrate assemblages
 3. Flow regime
 4. Chemistry
 5. Riparian zone
@@ -190,7 +190,7 @@ The term **urban stream syndrome** describes the physical and ecological respons
 # Urban stream syndrome
 .pull-left[
 1. .red[**Fish assemblages**]
-2. Macroinvertebrates
+2. Macroinvertebrate assemblages
 3. Flow regime
 4. Chemistry
 5. Riparian zone
@@ -248,3 +248,64 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/fishabundance.png" width="300"/>
 <img src="fig/fishbiomass.png" width="300"/>
 ]]
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish assemblages
+2. .red[**Macroinvertebrate assemblages**]
+3. Flow regime
+4. Chemistry
+5. Riparian zone
+6. Ecosystem function
+]
+
+.pull-right[
+.center[
+<img src="fig/RioPiedras.png" width="500"/>
+]]
+
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish assemblages
+2. Macroinvertebrate assemblages
+3. Flow regime
+4. Chemistry
+5. Riparian zone
+6. .red[**Ecosystem function**]
+]
+
+.pull-right[
+.center[
+<img src="fig/RioPiedras.png" width="500"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+.center[
+<img src="fig/ecosyfunction0.png" width="300"/>
+]]
+
+.pull-right[
+.center[
+<img src="fig/ecosyfunction1.png" width="450"/>
+<img src="fig/ecosyfunction2.png" width="250"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+.center[
+
+]]
+
+.pull-right[
+.center[
+<img src="fig/ecosyfunction3.png" width="300"/>
+<img src="fig/ecosyfunction4.png" width="300"/>
+]]
+
+
