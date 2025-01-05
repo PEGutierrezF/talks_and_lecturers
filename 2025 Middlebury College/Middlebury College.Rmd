@@ -176,9 +176,9 @@ The term **urban stream syndrome** describes the physical and ecological respons
 1. Fish assemblages
 2. Macroinvertebrate assemblages
 3. Flow regime
-4. Chemistry
-5. Riparian zone
-6. Ecosystem function
+4. Riparian zone
+5. Ecosystem function
+6. Physicochemistry
 ]
 
 .pull-right[
@@ -192,9 +192,9 @@ The term **urban stream syndrome** describes the physical and ecological respons
 1. Fish assemblages
 2. Macroinvertebrate assemblages
 3. Flow regime
-4. Chemistry
-5. Riparian zone
-6. Ecosystem function
+4. Riparian zone
+5. Ecosystem function
+6. Physicochemistry
 ]
 
 .pull-right[
@@ -209,9 +209,9 @@ The term **urban stream syndrome** describes the physical and ecological respons
 1. .red[**Fish assemblages**]
 2. Macroinvertebrate assemblages
 3. Flow regime
-4. Chemistry
-5. Riparian zone
-6. Ecosystem function
+4. Riparian zone
+5. Ecosystem function
+6. Physicochemistry
 ]
 
 .pull-right[
@@ -273,14 +273,15 @@ The term **urban stream syndrome** describes the physical and ecological respons
 1. Fish assemblages
 2. .red[**Macroinvertebrate assemblages**]
 3. Flow regime
-4. Chemistry
-5. Riparian zone
-6. Ecosystem function
+4. Riparian zone
+5. Ecosystem function
+6. Physicochemistry
 ]
 
 .pull-right[
 .center[
-<img src="fig/RioPiedras.png" width="500"/>
+<img src="fig/riopiedras1.jpg" width="300"/>
+<img src="fig/riopiedras2.jpg" width="300"/>
 ]]
 
 
@@ -313,14 +314,15 @@ The term **urban stream syndrome** describes the physical and ecological respons
 1. Fish assemblages
 2. Macroinvertebrate assemblages
 3. Flow regime
-4. Chemistry
-5. Riparian zone
-6. .red[**Ecosystem function**]
+4. Riparian zone
+5. .red[**Ecosystem function**]
+6. Physicochemistry
 ]
 
 .pull-right[
 .center[
-<img src="fig/RioPiedras.png" width="500"/>
+<img src="fig/riopiedras1.jpg" width="300"/>
+<img src="fig/riopiedras2.jpg" width="300"/>
 ]]
 
 ---
@@ -349,4 +351,45 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/ecosyfunction4.png" width="300"/>
 ]]
 
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish assemblages
+2. Macroinvertebrate assemblages
+3. Flow regime
+4. Riparian zone
+5. Ecosystem function
+6. .red[**Physicochemistry**]
+]
+
+.pull-right[
+.center[
+<img src="fig/riopiedras1.jpg" width="300"/>
+<img src="fig/riopiedras2.jpg" width="300"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+.center[
+
+]]
+
+.pull-right[
+.center[
+<img src="fig/fisicochemistry.png" width="300"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+.center[
+
+]]
+
+.pull-right[
+.center[
+<img src="fig/fisicochemistry1.png" width="320"/>
+]]
 
