@@ -35,7 +35,7 @@ library(DiagrammeR)
 knitr::opts_chunk$set(dpi= 300)
 xaringanExtra::use_panelset()
 xaringanExtra::use_scribble()
-xaringanExtra::use_search(show_icon = FALSE, position= "bottom-left") # Search
+xaringanExtra::use_search(show_icon = TRUE, auto_search	=FALSE, position= "bottom-left") # Search
 xaringanExtra::use_progress_bar(color = "#0051BA", location = "bottom", 
                                 height = "4px")
 xaringanExtra::use_clipboard() # Copy Code 
@@ -183,7 +183,24 @@ The term **urban stream syndrome** describes the physical and ecological respons
 
 .pull-right[
 .center[
-<img src="fig/RioPiedras.png" width="500"/>
+<img src="fig/riopiedraswatershed.png" width="600"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish assemblages
+2. Macroinvertebrate assemblages
+3. Flow regime
+4. Chemistry
+5. Riparian zone
+6. Ecosystem function
+]
+
+.pull-right[
+.center[
+<img src="fig/riopiedras1.jpg" width="300"/>
+<img src="fig/riopiedras2.jpg" width="300"/>
 ]]
 
 ---
@@ -199,7 +216,8 @@ The term **urban stream syndrome** describes the physical and ecological respons
 
 .pull-right[
 .center[
-<img src="fig/RioPiedras.png" width="500"/>
+<img src="fig/riopiedras1.jpg" width="300"/>
+<img src="fig/riopiedras2.jpg" width="300"/>
 ]]
 
 
@@ -265,6 +283,29 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/RioPiedras.png" width="500"/>
 ]]
 
+
+---
+# Urban stream syndrome
+.pull-left[
+
+]
+
+.pull-right[
+.center[
+<img src="fig/rebecapaper.png" width="350"/>
+
+<img src="fig/ecosyfunction0.png" width="250"/>
+]]
+
+---
+# Urban stream syndrome
+.pull-left[
+]
+
+.pull-right[
+.center[
+<img src="fig/macroinvertebrateplot.png" width="400"/>
+]]
 
 ---
 # Urban stream syndrome
