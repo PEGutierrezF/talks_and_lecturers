@@ -236,3 +236,13 @@ blockquote {
 .warmyellow { color:   #FFB81C }
 
 
+/* Ensure the footnote appears in the bottom-right corner */
+.title-slide .footnote {
+  font-size: 14px;                /* Adjust font size */
+  color: #231F20;                 /* Text color */
+  position: absolute !important;  /* Absolute positioning */
+  bottom: 10px !important;        /* Position from the bottom */
+  right: 10px !important;         /* Position from the right */
+  text-align: right;              /* Align text to the right */
+  z-index: 10;                    /* Ensure it's above other content */
+}
