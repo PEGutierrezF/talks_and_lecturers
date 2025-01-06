@@ -175,11 +175,15 @@ blockquote {
   display:             none;
 }
 
+
+
+/*----------------------------------------*/
+
 /*-- Title slide heading adjustments --*/
 .title-slide h1 {
   color:               #000000;
   margin-top:          -20px;  /* Move the title up */
-  margin-bottom:       20px;   /* Space between title and subtitle */
+  margin-bottom:       50px;   /* Space between title and subtitle */
 }
 
 .title-slide h2 {
@@ -192,6 +196,7 @@ blockquote {
   margin-top:          0px;    /* Ensures no extra margin on top of the author name */
 }
 
+/*----------------------------------------*/
 
 .panelset {
   --panel-tab-foreground: currentColor;
@@ -229,7 +234,5 @@ blockquote {
 .pink       { color:   #AE2573 }
 .red        { color:   #DA291C }
 .warmyellow { color:   #FFB81C }
-
-
 
 

@@ -1,9 +1,15 @@
 ---
 title: "Flowing through change:<br> Exploring disturbances and urbanization<br> in tropical streams"
-subtitle: ""
-author: "Pablo E. Guti\u00E9rrez-Fonseca"
-institute: ""
-date: "`r Sys.Date()`"
+subtitle: " "
+author: |
+  Pablo E. Gutiérrez-Fonseca, PhD  
+  <a href='https://github.com/PEGutierrezF' target='_blank' style='text-decoration: none; color: black;'>
+    <i class='fab fa-github'></i> PEGutierrezF</a> |
+  <a href='https://x.com/pabloguticr' target='_blank' style='text-decoration: none; color: black;'>
+    <i class='fab fa-twitter' style='color: #1DA1F2;'></i> @pabloguticr </a> |
+  <a href="mailto:pgutierr@uvm.edu" style="text-decoration: none; color: black;">
+    <i class="fa fa-envelope"></i> Email</a>
+date: "2025-01-05"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -15,11 +21,9 @@ output:
       highlightSpans: true 
       countIncrementalSlides: true
       ratio: "16:9"
-    includes:
-      after_body: [css/insert-logo.html] #this is for logos in all slides
-xaringanExtra:
-    use_panelset: true
 ---
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(readxl)
@@ -35,7 +39,7 @@ library(DiagrammeR)
 knitr::opts_chunk$set(dpi= 300)
 xaringanExtra::use_panelset()
 xaringanExtra::use_scribble()
-xaringanExtra::use_search(show_icon = TRUE, auto_search	=FALSE, position= "bottom-left") # Search
+xaringanExtra::use_search(show_icon = FALSE, auto_search	=FALSE, position= "bottom-left") # Search
 xaringanExtra::use_progress_bar(color = "#0051BA", location = "bottom", 
                                 height = "4px")
 xaringanExtra::use_clipboard() # Copy Code 
@@ -45,6 +49,7 @@ xaringanExtra::use_extra_styles(
 )
 xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presentation
 ```
+
 
 # Outline
 
@@ -95,6 +100,10 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ]
 .pull-right[ 
 ]
+
+---
+# Keep in touch
+
 
 ---
 # Puerto Rico context
@@ -393,3 +402,8 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/fisicochemistry1.png" width="320"/>
 ]]
 
+---
+<blockquote>
+Statistics is the grammar of science. 
+.right[-- <cite>Karl Pearson</cite>]
+</blockquote>
