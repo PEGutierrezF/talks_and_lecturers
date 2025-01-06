@@ -238,6 +238,21 @@ Hurricane Maria
 
 
 ---
+# Puerto Rico and Droughts 
+.pull-left[
+- **Potamodromous:** fishes move within the freshwater environment, typically in a river or stream system. 
+.center-middle[<img src="fig/fishmigration1.jpg" width="250"/>
+]]
+
+.pull-right[ 
+- **Diadromous:** fishes move between freshwater and saltwater environments at some point in its life cycle.
+.center[<img src="fig/fishmigration3.jpg" width="250"/>
+<img src="fig/fishmigration2.jpg" width="250"/>]]
+
+.footnote[Herrera and Ault (2017)]
+
+
+---
 # Urban stream syndrome
 
 ---
