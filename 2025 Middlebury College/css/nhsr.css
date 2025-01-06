@@ -153,13 +153,14 @@ blockquote {
   border-bottom: none;
 }
 
+/*---------------------------------------------------------------------------------*/
+/* Pablo E. Gutierrez-Fonseca, Nov 20, 2024; Multiple logos in Title Slide */
+/*---------------------------------------------------------------------------------*/
 
-/*-- CUSTOM CLASS FOR THE TITLE SLIDE --*/
-/*-- Pablo, only TITLE SLIDE --*/
 /* Title slide with two logos */
 .title-slide {
   background-image: url(../css/logo.png), url(../css/lter.jpg), url(../css/OTS.jpg); /* Two logos */
-  background-position: 50% 85%, 20% 86%, 85% 85%; /* Position logos separately */
+  background-position: 50% 89%, 20% 90%, 85% 89%; /* Position logos separately */
   background-size: 200px, 95px, 180px; /* Size of each logo */
   background-color: #fff;
   padding-left: 100px; /* Optional for layout */
@@ -177,7 +178,9 @@ blockquote {
 
 
 
-/*----------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/* Pablo E. Gutierrez-Fonseca, Nov 20, 2024; Title slide adjustments */
+/*---------------------------------------------------------------------------------*/
 
 /*-- Title slide heading adjustments --*/
 .title-slide h1 {
@@ -196,8 +199,11 @@ blockquote {
   margin-top:          0px;    /* Ensures no extra margin on top of the author name */
 }
 
-/*----------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+/* Pablo E. Gutierrez-Fonseca, Jan 6, 2025; Panel set adjustments */
+/*---------------------------------------------------------------------------------*/
 
+/*-- CUSTOM CLASS FOR THE END SLIDE --*/
 .panelset {
   --panel-tab-foreground: currentColor;
   --panel-tab-active-foreground: #0051BA;
@@ -208,6 +214,12 @@ blockquote {
 }
 
 
+
+/*---------------------------------------------------------------------------------*/
+/* Pablo E. Gutierrez-Fonseca, Jan 6, 2025; Font size adjustments */
+/*---------------------------------------------------------------------------------*/
+
+/*-- CUSTOM CLASSES FOR FONT SIZE --*/
 /*-- Nov 20, 2024; Pablo Gutierrez-Fonseca; Font size --*/
 .xlarge { 
      font-size: 150%
@@ -226,7 +238,8 @@ blockquote {
 }
 
 
-
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
 
 /*-- CUSTOM CLASSES FOR TEXT EMPHASIS --*/
 .blue       { color:   #005EB8 }
@@ -236,6 +249,12 @@ blockquote {
 .warmyellow { color:   #FFB81C }
 
 
+
+/*---------------------------------------------------------------------------------*/
+/* Pablo E. Gutierrez-Fonseca, Jan 6, 2025; Footnote adjustments */
+/*---------------------------------------------------------------------------------*/
+
+/*-- CUSTOM CLASS FOR FOOTNOTE --*/
 /* Ensure the footnote appears in the bottom-right corner */
 .title-slide .footnote {
   font-size: 14px;                /* Adjust font size */
@@ -245,4 +264,15 @@ blockquote {
   right: 10px !important;         /* Position from the right */
   text-align: right;              /* Align text to the right */
   z-index: 10;                    /* Ensure it's above other content */
+}
+
+/*---------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------*/
+
+
+.center-middle {
+  display: flex;
+  justify-content: center;  /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  height: 50%;            /* Ensure it takes up full slide height */
 }
