@@ -61,6 +61,7 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
     - Droughts
     
 - Urban stream syndrome
+    - Rio Piedras, Puerto Rico
 
 ---
 # About me
@@ -106,6 +107,8 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ---
 # Puerto Rico context
 - Puerto Rico is an archipelago located between the Atlantic Ocean and the Caribbean Sea. 
+<br>
+
 - It is the smallest island of the greater Antilles.
 
 .center-middle[
@@ -129,7 +132,7 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ---
 # International Decade of Natural Disaster Reduction (1990s)
 .pull-left[
-- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes
+- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes.
 
 ]
 
@@ -140,7 +143,7 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ---
 # International Decade of Natural Disaster Reduction (1990s)
 .pull-left[
-- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes
+- Storm, .red[**hurricanes**], floods, landslides, wildﬁres, .red[**drought**], desertiﬁcation, treefalls, exotic invasions, earthquakes.
 
 - .red[**Urbanization**]
 
@@ -227,7 +230,9 @@ Hurricane Maria
 ---
 # Puerto Rico and Droughts 
 .pull-left[
-.center-middle[<img src="fig/drought3.png" width="400"/>]]
+
+.center-middle[<img src="fig/drought3.png" width="400"/>
+]]
 
 .pull-right[ 
 .center[<img src="fig/drought.png" width="350"/>]
@@ -249,7 +254,68 @@ Hurricane Maria
 .center[<img src="fig/fishmigration3.jpg" width="250"/>
 <img src="fig/fishmigration2.jpg" width="250"/>]]
 
-.footnote[Herrera and Ault (2017)]
+---
+# Puerto Rico and Droughts 
+.pull-left[
+- We assessed long-term patterns in fish assemblages (2008–2016) in an urban stream in San Juan, Puerto Rico. 
+
+- We hypothesized that drought periods would result in negative effects on native fish species and positive effects on introduced species.
+]
+
+.pull-right[ 
+.center[<img src="fig/droughtfish.png" width="350"/>]
+.center[<img src="fig/droughtfish1.jpg" width="350"/>]
+]
+
+.footnote[Ramirez et al (2018)]
+---
+# Puerto Rico and Droughts 
+.pull-left[
+- Native fish were dominant (2008-2014)
+.center[<img src="fig/droughtfish4.jpg" width="200"/>]
+
+- Introduced fish were dominant (2015 - 2016)
+.center[<img src="fig/droughtfish5.jpg" width="200"/>]
+
+]
+
+.pull-right[ 
+.center[<img src="fig/droughtfish2.png" width="350"/>]
+.center[<img src="fig/droughtfish3.png" width="350"/>]
+]
+
+
+---
+# Puerto Rico and Droughts 
+.pull-left[
+- Native fish were dominant (2008-2014)
+.center[<img src="fig/droughtfish4.jpg" width="200"/>]
+
+- Introduced fish were dominant (2015 - 2016)
+.center[<img src="fig/droughtfish5.jpg" width="200"/>]
+
+]
+
+.pull-right[ 
+.center-middle[<img src="fig/droughtfish6.png" width="500"/>]
+]
+
+
+---
+# Puerto Rico and Droughts 
+.pull-left[
+- Native fish were dominant (2008-2014)
+.center[<img src="fig/droughtfish4.jpg" width="200"/>]
+
+- Introduced fish were dominant (2015 - 2016)
+.center[<img src="fig/droughtfish5.jpg" width="200"/>]
+
+]
+
+.pull-right[ 
+.center[<img src="fig/droughtfish7.png" width="300"/>]
+.center[<img src="fig/droughtfish8.jpg" width="300"/>]
+]
 
 
 ---
