@@ -317,6 +317,19 @@ Hurricane Maria
 .center[<img src="fig/droughtfish8.jpg" width="300"/>]
 ]
 
+---
+# Hurricanes vs. Droughts
+
+---
+# Hurricanes vs. Droughts
+Both are major disturbances
+
+- Drought
+    - Major negative impact by allowing the establishment of introduced species.  
+
+- Hurricanes
+    - Negative impacts, but similar to major flooding.
+
 
 ---
 # Urban stream syndrome
@@ -415,13 +428,12 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ]]
 
 .pull-right[
-.center[
-**Native**<br>
-<img src="fig/fishnative.jpg" width="300"/>
+- **Native**<br>
+.center[<img src="fig/fishnative.jpg" width="300"/>]
 
-**Introduced**<br>
-<img src="fig/fishintroduce.jpg" width="300"/>
-]]
+- **Introduced**<br>
+.center[<img src="fig/fishintroduce.jpg" width="300"/>]
+]
 
 
 ---
@@ -562,7 +574,13 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ]]
 
 ---
-<blockquote>
-Statistics is the grammar of science. 
-.right[-- <cite>Karl Pearson</cite>]
-</blockquote>
+# Urban streams are: 
+- Functional ecosystems
+    - Native fauna present
+
+- Key factors
+    - Flow alteration
+    - Altered geomorphology 
+    - Movement barriers
+    - High solute levels
+
