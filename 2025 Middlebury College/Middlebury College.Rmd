@@ -69,6 +69,9 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 - I grew up in Turrialba, CR
 ]
 .pull-right[ 
+.center[
+<img src="fig/aboutme.png" width="450"/>
+]
 ]
 
 
@@ -83,6 +86,9 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
     
 ]
 .pull-right[ 
+.center[
+<img src="fig/aboutme.png" width="450"/>
+]
 ]
 
 
@@ -97,12 +103,37 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 
 - University of Puerto Rico
     - PhD in community ecology
-    - Postdoc in ecosystem ecology and disturbance ecology 
+    - Postdoc in ecosystem ecology and disturbance ecology
 
 ]
 .pull-right[ 
+.center[
+<img src="fig/aboutme.png" width="450"/>
+]
 ]
 
+
+---
+# About me
+.pull-left[
+- I grew up in Turrialba, CR
+
+- University of Costa Rica
+    - BS in biology
+    - MSc in aquatic science
+
+- University of Puerto Rico
+    - PhD in community ecology
+    - Postdoc in ecosystem ecology and disturbance ecology
+    
+- Passionate about understanding how ecosystems respond to change and working with others to advance ecological research.
+
+]
+.pull-right[ 
+.center[
+<img src="fig/aboutme.png" width="450"/>
+]
+]
 
 ---
 # Puerto Rico context
@@ -137,7 +168,9 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ]
 
 .pull-right[ 
-
+.center[
+<img src="fig/disaster.png" width="250"/>
+]
 ]
 
 ---
@@ -150,7 +183,9 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ]
 
 .pull-right[ 
-
+.center[
+<img src="fig/disaster1.png" width="250"/>
+]
 ]
 
 
