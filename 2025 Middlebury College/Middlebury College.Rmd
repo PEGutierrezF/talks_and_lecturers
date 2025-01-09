@@ -136,7 +136,12 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ]
 
 ---
-# Puerto Rico context
+# Puerto Rico
+
+- How many of you have ever heard of Puerto Rico, and what’s the first thing that comes to mind when you think of it?
+
+---
+# Puerto Rico
 - Puerto Rico is an archipelago located between the Atlantic Ocean and the Caribbean Sea. 
 <br>
 
@@ -147,7 +152,7 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 ]
 
 ---
-# Puerto Rico context
+# Puerto Rico
 .pull-left[
 - Most people live in the San Juan Metropolitan Area, which is the economic and cultural hub of Puerto Rico.
 
@@ -280,6 +285,19 @@ Hurricane Maria
 ---
 # Puerto Rico and Droughts 
 .pull-left[
+- **Potamodromous:** 
+.center-middle[<img src="fig/fishmigration1.jpg" width="250"/>
+]]
+
+.pull-right[ 
+- **Diadromous:** 
+.center[<img src="fig/fishmigration3.jpg" width="250"/>
+<img src="fig/fishmigration2.jpg" width="250"/>]]
+
+
+---
+# Puerto Rico and Droughts 
+.pull-left[
 - **Potamodromous:** fishes move within the freshwater environment, typically in a river or stream system. 
 .center-middle[<img src="fig/fishmigration1.jpg" width="250"/>
 ]]
@@ -339,12 +357,9 @@ Hurricane Maria
 ---
 # Puerto Rico and Droughts 
 .pull-left[
-- Native fish were dominant (2008-2014)
-.center[<img src="fig/droughtfish4.jpg" width="200"/>]
+- We proposed the hypothesis that drought caused the streams to disconnect from the sea, preventing native species from completing their migrations between the streams and the ocean.
 
-- Introduced fish were dominant (2015 - 2016)
-.center[<img src="fig/droughtfish5.jpg" width="200"/>]
-
+- In contrast, introduced species, which do not rely on sea connections, were able to proliferate in the streams under these conditions.
 ]
 
 .pull-right[ 
@@ -357,7 +372,7 @@ Hurricane Maria
 
 ---
 # Hurricanes vs. Droughts
-Both are major disturbances
+- Both are major disturbances.
 
 - Drought
     - Major negative impact by allowing the establishment of introduced species.  
@@ -369,6 +384,12 @@ Both are major disturbances
 ---
 # Urban stream syndrome
 
+---
+# Urban stream syndrome
+
+- What do you know about urban stream syndrome?
+    - Think about rivers near where you live or in your home state.
+    
 ---
 # Urban stream syndrome
 .pull-left[
