@@ -51,6 +51,13 @@ xaringanExtra::use_extra_styles(
 xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presentation
 ```
 
+```{r}
+x = 1
+z=2
+x + z
+```
+
+---
 
 # Outline
 
