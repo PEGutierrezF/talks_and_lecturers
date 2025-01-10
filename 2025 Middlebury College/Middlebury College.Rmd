@@ -51,13 +51,6 @@ xaringanExtra::use_extra_styles(
 xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presentation
 ```
 
-```{r}
-x = 1
-z=2
-x + z
-```
-
----
 
 # Outline
 
@@ -119,20 +112,9 @@ x + z
 ]
 ]
 
-
 ---
 # About me
 .pull-left[
-- I grew up in Turrialba, CR
-
-- University of Costa Rica
-    - BS in biology
-    - MSc in aquatic science
-
-- University of Puerto Rico
-    - PhD in community ecology
-    - Postdoc in ecosystem ecology and disturbance ecology
-    
 - Passionate about understanding how ecosystems respond to change and working with others to advance ecological research.
 
 ]
@@ -141,7 +123,6 @@ x + z
 <img src="fig/aboutme.png" width="450"/>
 ]
 ]
-
 ---
 # Puerto Rico
 
@@ -531,25 +512,33 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ---
 # Urban stream syndrome
 .pull-left[
-
+.middle[
+<img src="fig/rebeca.jpg" width="350"/>]
 ]
 
 .pull-right[
 .center[
 <img src="fig/rebecapaper.png" width="350"/>
-
-<img src="fig/ecosyfunction0.png" width="250"/>
+<br>
+<img src="fig/rebecapapermap.jpg" width="400"/>
 ]]
+
+.footnote[De Jesús-Crespo & Ramírez (2011)]
 
 ---
 # Urban stream syndrome
 .pull-left[
+.middle[<img src="fig/macroinvertebrateplot.png" width="400"/>]
 ]
+
 
 .pull-right[
 .center[
-<img src="fig/macroinvertebrateplot.png" width="400"/>
-]]
+<img src="fig/macroinvertebrateplot1.png" width="300"/>]
+]
+
+
+.footnote[De Jesús-Crespo & Ramírez (2011)]
 
 ---
 # Urban stream syndrome
@@ -581,6 +570,8 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/ecosyfunction2.png" width="250"/>
 ]]
 
+.footnote[Classen-Rodriguez et al. (2018)]
+
 ---
 # Urban stream syndrome
 .pull-left[
@@ -594,6 +585,7 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/ecosyfunction4.png" width="300"/>
 ]]
 
+.footnote[Classen-Rodriguez et al. (2018)]
 
 ---
 # Urban stream syndrome
@@ -612,6 +604,19 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/riopiedras2.jpg" width="300"/>
 ]]
 
+.footnote[Ramirez et al. (2014)]
+---
+# Urban stream syndrome
+.pull-left[
+.center[<img src="fig/fisicochemistry2.png" width="300"/>]
+]
+
+.pull-right[
+.center[
+<img src="fig/fisicochemistry3.png" width="500"/>
+]]
+
+.footnote[Ramirez et al. (2014)]
 ---
 # Urban stream syndrome
 .pull-left[
@@ -624,17 +629,34 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/fisicochemistry.png" width="300"/>
 ]]
 
+.footnote[Ramirez et al. (2014)]
+
 ---
 # Urban stream syndrome
 .pull-left[
-.center[
-
-]]
+- Where do the high calcium concentrations come from?
+]
 
 .pull-right[
 .center[
 <img src="fig/fisicochemistry1.png" width="320"/>
 ]]
+
+.footnote[Ramirez et al. (2014)]
+
+---
+# Urban stream syndrome
+.pull-left[
+- Where do the high calcium concentrations come from?
+    - Urban precipitation enriched with dust derived from concrete, wallboard, etc.
+]
+
+.pull-right[
+.center[
+<img src="fig/fisicochemistry1.png" width="320"/>
+]]
+
+.footnote[Ramirez et al. (2014)]
 
 ---
 # Urban streams are: 
