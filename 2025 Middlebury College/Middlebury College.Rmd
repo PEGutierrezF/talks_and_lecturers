@@ -26,6 +26,7 @@ output:
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
+
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(readxl)
 library(readr)
@@ -722,6 +723,20 @@ The term **urban stream syndrome** describes the physical and ecological respons
 
 .footnote[Ramirez et al. (2014)]
 
+
+---
+# Urban stream syndrome
+.pull-left[
+1. Fish assemblages `r fontawesome::fa("skull", fill = "red")`
+2. Macroinvertebrate assemblages `r fontawesome::fa("skull", fill = "red")`
+3. Flow regime `r fontawesome::fa("meh", fill = "blue")`
+4. Riparian zone `r fontawesome::fa("question-circle", fill = "blue")`
+5. Ecosystem function `r fontawesome::fa("skull", fill = "red")`
+6. Physicochemistry `r fontawesome::fa("skull", fill = "red")`
+]
+
+.pull-right[
+]
 
 ---
 # Urban stream syndrome
