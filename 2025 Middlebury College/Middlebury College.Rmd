@@ -184,49 +184,6 @@ xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presenta
 
 
 ---
-# Hurricane disturbances
-
----
-# Hurricane disturbances
-.pull-left[
-- Hurricanes are critical natural disturbances in shaping Puerto Rico's ecosystems.
-
-- Puerto Rico's geographic location in the Caribbean makes it highly vulnerable to frequent and intense hurricanes.
-
-- These disturbances affect both natural landscapes (forests, streams) and human communities.
-]
-
-.pull-right[ 
-<img src="fig/fig3.jpg" width="500"/>
-]
-
----
-# Hurricane disturbances
-.pull-left[
-- Hurricanes strike Puerto Rico on average every ~22 years.
-
-- In the Luquillo Experimental Forest, hurricanes occur approximately every ~42 years.
-]
-
-.pull-right[ 
-<img src="fig/hurricanes.png" width="500"/>
-]
-
----
-# Hurricane disturbances
-.pull-left[
-- In September 2017, Puerto Rico was impacted by two hurricanes: Irma and Maria.  
-
-]
-
-.pull-right[ 
-Hurricane Irma 
-.center[<img src="fig/hurricaneIrma.jpg" width="350"/>]
-Hurricane Maria
-.center[<img src="fig/hurricaneMaria.jpg" width="350"/>]
-]
-
----
 # Puerto Rico and Droughts 
 
 ---
@@ -330,12 +287,9 @@ Hurricane Maria
 ---
 # Puerto Rico and Droughts 
 .pull-left[
-- Native fish were dominant (2008-2014)
-.center[<img src="fig/droughtfish4.jpg" width="200"/>]
+**NMDS:** A method used to visualize similarities or differences in complex data by reducing it to 2D or 3D while preserving relative distances.
 
-- Introduced fish were dominant (2015 - 2016)
-.center[<img src="fig/droughtfish5.jpg" width="200"/>]
-
+**Interpretation:** Points closer together represent more similar samples or communities, while points farther apart indicate greater dissimilarity.
 ]
 
 .pull-right[ 
@@ -355,6 +309,80 @@ Hurricane Maria
 .center[<img src="fig/droughtfish7.png" width="300"/>]
 .center[<img src="fig/droughtfish8.jpg" width="300"/>]
 ]
+
+
+
+---
+# Hurricane disturbances
+
+---
+# Hurricane disturbances
+.pull-left[
+- Hurricanes are critical natural disturbances in shaping Puerto Rico's ecosystems.
+
+- Puerto Rico's geographic location in the Caribbean makes it highly vulnerable to frequent and intense hurricanes.
+
+- These disturbances affect both natural landscapes (forests, streams) and human communities.
+]
+
+.pull-right[ 
+<img src="fig/fig3.jpg" width="500"/>
+]
+
+---
+# Hurricane disturbances
+.pull-left[
+- Hurricanes strike Puerto Rico on average every ~22 years.
+
+- In the Luquillo Experimental Forest, hurricanes occur approximately every ~42 years.
+]
+
+.pull-right[ 
+<img src="fig/hurricanes.png" width="500"/>
+]
+
+---
+# Hurricane disturbances
+.pull-left[
+- In September 2017, Puerto Rico was impacted by two hurricanes: Irma and Maria.  
+
+]
+
+.pull-right[ 
+Hurricane Irma 
+.center[<img src="fig/hurricaneIrma.jpg" width="350"/>]
+Hurricane Maria
+.center[<img src="fig/hurricaneMaria.jpg" width="350"/>]
+]
+
+---
+# Hurricane disturbances
+.pull-left[
+- We hypothesized that hurricane-induced floods would favor native fish species, as they are uniquely adapted to the environmental conditions of Puerto Rico.  
+
+]
+
+.pull-right[ 
+
+.center[<img src="fig/hurricanefish1.jpg" width="500"/>]
+
+]
+
+---
+# Hurricane disturbances
+.pull-left[
+- We hypothesized that hurricane-induced floods would favor native fish species, as they are uniquely adapted to the environmental conditions of Puerto Rico.
+
+- Contrary to our hypothesis, the hurricanes did not significantly affect fish assemblages.
+
+]
+
+.pull-right[ 
+
+.center[<img src="fig/hurricanefish.jpeg" width="350"/>]
+
+]
+
 
 ---
 # Hurricanes vs. Droughts
@@ -484,6 +512,9 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ---
 # Urban stream syndrome
 .pull-left[
+- Natural and intermediate reaches with moderately high levels of sub-catchment urbanization supported relatively high biomass, species-rich, and native-dominated fish assemblages.
+
+- In contrast, concrete-channelized reaches with very highly urbanized sub-catchments exhibited fish assemblages dominated by few or no native species and an abundance of tolerant, exotic species.
 ]
 
 .pull-right[
@@ -529,7 +560,9 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ---
 # Urban stream syndrome
 .pull-left[
-.middle[<img src="fig/macroinvertebrateplot.png" width="400"/>]
+- Macroinvertebrate assemblages also were related to urbanization, and more macroinvertebrate families and pollution-sensitive taxa were found at sites where physicochemistry reflected less urban cover.
+
+.center[<img src="fig/macroinvertebrateplot.png" width="250"/>]
 ]
 
 
@@ -597,14 +630,17 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/ecosyfunction2.png" width="250"/>
 ]]
 
-.footnote[Classen-Rodriguez et al. (2018)]
+.footnote[Classen-Rodriguez et al. (2019)]
 
 ---
 # Urban stream syndrome
 .pull-left[
-.center[
+- Decomposition rates were fast in forested streams (range: 0.021–0.039/day) and decreased with increasing urbanization (range: 0.007–0.008/day).
 
-]]
+- Decomposition rates were strongly and negatively correlated with percent impervious surface cover (R = -0.81, p = 0.01).
+
+- Functional feeding group diversity was higher in forested streams, with the presence of shredders.
+]
 
 .pull-right[
 .center[
@@ -612,7 +648,7 @@ The term **urban stream syndrome** describes the physical and ecological respons
 <img src="fig/ecosyfunction4.png" width="300"/>
 ]]
 
-.footnote[Classen-Rodriguez et al. (2018)]
+.footnote[Classen-Rodriguez et al. (2019)]
 
 ---
 # Urban stream syndrome
@@ -647,9 +683,10 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ---
 # Urban stream syndrome
 .pull-left[
-.center[
+- Stream physicochemistry was strongly influenced by watershed percent impervious cover and the density of urban infrastructure, such as roads, pipes, and buildings.
 
-]]
+- Despite the presence of a sewage collection system, illegal discharges and leaky infrastructure likely contributed to elevated ion concentrations.
+]
 
 .pull-right[
 .center[
@@ -698,14 +735,14 @@ The term **urban stream syndrome** describes the physical and ecological respons
 ]
 
 .pull-right[
-- Functional ecosystems
-    - Native fauna present
-
-- Key factors
+- Key Factors to Continue Examining
+    - Riparian zone dynamics
+    - Effects of non-native species on local biodiversity and ecosystem function
     - Flow alteration
-    - Altered geomorphology 
+    - Altered geomorphology
     - Movement barriers
     - High solute levels
 ]
 
-
+---
+# Thank you!
