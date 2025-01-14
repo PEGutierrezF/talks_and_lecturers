@@ -53,7 +53,6 @@ xaringanExtra::use_extra_styles(
 xaringanExtra::use_editable(expires = 1) # Add textboxes to edit during presentation
 ```
 
-
 # Outline
 
 - About me
@@ -761,3 +760,18 @@ The term **urban stream syndrome** describes the physical and ecological respons
 
 ---
 # Thank you!
+#
+
+---
+# Urban stream syndrome
+.pull-left[
+- Urban streams, Mayaguez
+.center[
+<img src="fig/WhatsApp Image 2025-01-13 at 8.19.50 AM (1).jpeg" width="320"/>
+]]
+
+.pull-right[
+.center[
+<img src="fig/WhatsApp Image 2025-01-13 at 8.19.50 AM.jpeg" width="320"/>
+<img src="fig/WhatsApp Image 2025-01-13 at 8.19.51 AM.jpeg" width="320"/>
+]]
